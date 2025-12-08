@@ -1,4 +1,4 @@
-package Ques29;
+package ques29;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import map.MapData;
 
-public class main2 {
+public class Main2 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
